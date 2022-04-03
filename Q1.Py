@@ -1,3 +1,5 @@
+# 1)	Escrever uma função que receba como parâmetro uma pilha.
+# A função deve retornar o maior elemento da pilha. A passagem deve ser por valor ou referência?
 from typing import List
 
 def main():
